@@ -5,6 +5,11 @@ They range from basic LED experiments to small circuits like a nightlight, traff
 
 ## Highlights
 
+I’ve recorded short demos of many of these projects working in real hardware.
+
+🎛️ **Full Playlist:**  
+https://www.youtube.com/playlist?list=PLBFJOYu3Sm3V2En5jY78IffRuca8KWWwF
+
 ### Mini Projects (`/mini_projects`)
 
 A few representative circuits:
